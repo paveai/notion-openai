@@ -1,5 +1,4 @@
 import time
-import openai
 import streamlit as st
 from utils import load_chain
 
